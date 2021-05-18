@@ -7,4 +7,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="navTextAppearance" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:textColor">@color/textcolorPrimary</item>
+    </style>
+
+    <color name="textcolorPrimary">#012b7a</color>
 </resources>
